@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-pcald-trn
   LOCATION: australiaeast
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: Y18204f46-9188-418a-9ced-5220e1e4e379
+  SUBSCRIPTION-ID: 18204f46-9188-418a-9ced-5220e1e4e379
   WEBAPP-NAME: eshoponweb-webapp-pcald
 
 
