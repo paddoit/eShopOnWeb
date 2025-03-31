@@ -11,7 +11,6 @@ env:
   SUBSCRIPTION-ID: 18204f46-9188-418a-9ced-5220e1e4e379
   WEBAPP-NAME: eshoponweb-webapp-pcald
 
-
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
