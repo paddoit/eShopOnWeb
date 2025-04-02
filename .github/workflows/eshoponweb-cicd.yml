@@ -3,6 +3,9 @@ name: eShopOnWeb Build and Test1
 #Triggers (uncomment line below to use it)
 on: [push, workflow_dispatch]
 
+permissions:
+  id-token: write # Require write permission to Fetch an OIDC token.
+
 #Environment variables https://docs.github.com/en/actions/learn-github-actions/environment-variables
 env:
   RESOURCE-GROUP: rg-eshoponweb-pcald-trn
